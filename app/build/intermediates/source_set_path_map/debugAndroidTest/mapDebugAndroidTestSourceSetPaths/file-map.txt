@@ -1,0 +1,38 @@
+com.devnotepad.editor.test.app-activity-compose-1.9.3-0 C:\Users\94752\.gradle\caches\8.9\transforms\05ac9a7d5eec43c691e9ed51a6e05588\transformed\activity-compose-1.9.3\res
+com.devnotepad.editor.test.app-ui-util-release-1 C:\Users\94752\.gradle\caches\8.9\transforms\100ee5f8a3d94a013296593bf37fb9a0\transformed\ui-util-release\res
+com.devnotepad.editor.test.app-profileinstaller-1.3.1-2 C:\Users\94752\.gradle\caches\8.9\transforms\19918ac059a9f2e36c6c9c6ed45c3114\transformed\profileinstaller-1.3.1\res
+com.devnotepad.editor.test.app-ui-geometry-release-3 C:\Users\94752\.gradle\caches\8.9\transforms\2577a18784aa11377278124195a58984\transformed\ui-geometry-release\res
+com.devnotepad.editor.test.app-core-1.6.1-4 C:\Users\94752\.gradle\caches\8.9\transforms\25bad237ecd2dd901619f87c3961a3c5\transformed\core-1.6.1\res
+com.devnotepad.editor.test.app-activity-ktx-1.9.3-5 C:\Users\94752\.gradle\caches\8.9\transforms\2af1e7831ecbbeea64f92183906c3bf8\transformed\activity-ktx-1.9.3\res
+com.devnotepad.editor.test.app-ui-unit-release-6 C:\Users\94752\.gradle\caches\8.9\transforms\3ca24b8e99119eed0020013dc68e774d\transformed\ui-unit-release\res
+com.devnotepad.editor.test.app-lifecycle-livedata-core-2.8.7-7 C:\Users\94752\.gradle\caches\8.9\transforms\3d0f24d2028787cfadb90c045f0c1918\transformed\lifecycle-livedata-core-2.8.7\res
+com.devnotepad.editor.test.app-savedstate-ktx-1.2.1-8 C:\Users\94752\.gradle\caches\8.9\transforms\45662bfe37e928469f02c2cb0ed53aa1\transformed\savedstate-ktx-1.2.1\res
+com.devnotepad.editor.test.app-lifecycle-viewmodel-release-9 C:\Users\94752\.gradle\caches\8.9\transforms\5b5094263e06b4b56c6fcf00411e66cc\transformed\lifecycle-viewmodel-release\res
+com.devnotepad.editor.test.app-ui-text-release-10 C:\Users\94752\.gradle\caches\8.9\transforms\5cdafd9fd9b2d1150587e4e044ae607e\transformed\ui-text-release\res
+com.devnotepad.editor.test.app-annotation-experimental-1.4.1-11 C:\Users\94752\.gradle\caches\8.9\transforms\64898f25423a52e7d52cd90e3fc6b947\transformed\annotation-experimental-1.4.1\res
+com.devnotepad.editor.test.app-lifecycle-runtime-compose-release-12 C:\Users\94752\.gradle\caches\8.9\transforms\664819ffeabce515ddfb4897b652bcd3\transformed\lifecycle-runtime-compose-release\res
+com.devnotepad.editor.test.app-savedstate-1.2.1-13 C:\Users\94752\.gradle\caches\8.9\transforms\6d39a28dc2095064b4ef7ddcbb2e6cb8\transformed\savedstate-1.2.1\res
+com.devnotepad.editor.test.app-core-runtime-2.2.0-14 C:\Users\94752\.gradle\caches\8.9\transforms\757886df0273fb8d7f3b6ac51793f7b7\transformed\core-runtime-2.2.0\res
+com.devnotepad.editor.test.app-ui-test-release-15 C:\Users\94752\.gradle\caches\8.9\transforms\76ce33d0180a087cc4f8fec5c6a89029\transformed\ui-test-release\res
+com.devnotepad.editor.test.app-customview-poolingcontainer-1.0.0-16 C:\Users\94752\.gradle\caches\8.9\transforms\77640e7de0eda7791e00ff5f59f65f76\transformed\customview-poolingcontainer-1.0.0\res
+com.devnotepad.editor.test.app-startup-runtime-1.1.1-17 C:\Users\94752\.gradle\caches\8.9\transforms\79921aade705de0003e20218ce415120\transformed\startup-runtime-1.1.1\res
+com.devnotepad.editor.test.app-lifecycle-process-2.8.7-18 C:\Users\94752\.gradle\caches\8.9\transforms\7e2a31d0a12b2b0bf7b321e173a262e8\transformed\lifecycle-process-2.8.7\res
+com.devnotepad.editor.test.app-lifecycle-runtime-ktx-release-19 C:\Users\94752\.gradle\caches\8.9\transforms\84ec31b8f250752da66be04c98230cb4\transformed\lifecycle-runtime-ktx-release\res
+com.devnotepad.editor.test.app-ui-release-20 C:\Users\94752\.gradle\caches\8.9\transforms\94513e9284a9a86c312170cf1887199a\transformed\ui-release\res
+com.devnotepad.editor.test.app-lifecycle-runtime-release-21 C:\Users\94752\.gradle\caches\8.9\transforms\a43c0b4494d1ab8dc10989071effae5d\transformed\lifecycle-runtime-release\res
+com.devnotepad.editor.test.app-runtime-release-22 C:\Users\94752\.gradle\caches\8.9\transforms\a809697dfa7906ee3baf17f5fb792f29\transformed\runtime-release\res
+com.devnotepad.editor.test.app-core-1.15.0-23 C:\Users\94752\.gradle\caches\8.9\transforms\ac563589e93a8cbd179e3db0decb7cbf\transformed\core-1.15.0\res
+com.devnotepad.editor.test.app-lifecycle-viewmodel-ktx-2.8.7-24 C:\Users\94752\.gradle\caches\8.9\transforms\be68f6d9c8a006113c9d850543071d71\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.devnotepad.editor.test.app-core-ktx-1.15.0-25 C:\Users\94752\.gradle\caches\8.9\transforms\bf9b6d0f7a0961c08a590a7d53a31c6a\transformed\core-ktx-1.15.0\res
+com.devnotepad.editor.test.app-tracing-1.2.0-26 C:\Users\94752\.gradle\caches\8.9\transforms\c21ef40d5d306b48ba1145541aeb2b7c\transformed\tracing-1.2.0\res
+com.devnotepad.editor.test.app-activity-1.9.3-27 C:\Users\94752\.gradle\caches\8.9\transforms\c2a437300959cf6613455fccc298d35c\transformed\activity-1.9.3\res
+com.devnotepad.editor.test.app-lifecycle-viewmodel-savedstate-2.8.7-28 C:\Users\94752\.gradle\caches\8.9\transforms\cba9e79fe37c162c2d38eae334c0f92e\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.devnotepad.editor.test.app-graphics-path-1.0.1-29 C:\Users\94752\.gradle\caches\8.9\transforms\d390ec6c9d0c0e815d838ec456edb07c\transformed\graphics-path-1.0.1\res
+com.devnotepad.editor.test.app-runtime-saveable-release-30 C:\Users\94752\.gradle\caches\8.9\transforms\d6e18450c6e71940401c45c8838835fb\transformed\runtime-saveable-release\res
+com.devnotepad.editor.test.app-ui-test-junit4-release-31 C:\Users\94752\.gradle\caches\8.9\transforms\e0a91d16b088361de74e8c2037617ac4\transformed\ui-test-junit4-release\res
+com.devnotepad.editor.test.app-ui-graphics-release-32 C:\Users\94752\.gradle\caches\8.9\transforms\e93db948b9f7bdd3af5b73eeec5a7558\transformed\ui-graphics-release\res
+com.devnotepad.editor.test.app-emoji2-1.3.0-33 C:\Users\94752\.gradle\caches\8.9\transforms\f6335c06071f914e4a5ef22dc5a03525\transformed\emoji2-1.3.0\res
+com.devnotepad.editor.test.app-androidTest-34 C:\Users\94752\Desktop\adroid IDE\app\build\generated\res\resValues\androidTest\debug
+com.devnotepad.editor.test.app-mergeDebugAndroidTestResources-35 C:\Users\94752\Desktop\adroid IDE\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.devnotepad.editor.test.app-mergeDebugAndroidTestResources-36 C:\Users\94752\Desktop\adroid IDE\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.devnotepad.editor.test.app-debugAndroidTest-37 C:\Users\94752\Desktop\adroid IDE\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
