@@ -1,4 +1,4 @@
-# 📝 DevNotepad — Mobile Text Editor with Version Control
+#  DevNotepad — Mobile Text Editor with Version Control
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
@@ -8,20 +8,20 @@
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- **🧠 Smart Syntax Highlighting** — Dynamic, regex-based real-time syntax highlighting for Kotlin (`.kt`, `.kts`) and Markdown (`.md`) files.
-- **👀 Markdown Preview** — Dedicated read-only preview screen that beautifully renders Markdown elements (headings, bold, lists, code blocks, etc.) into styled text.
-- **🔄 Incremental Version Control** — Saves storage space by storing only the *differences* (deltas) between file saves using `java-diff-utils`, rather than duplicating entire files for every version.
-- **🛡️ Auto-Save & Crash Recovery** — Background coroutines automatically back up your unsaved changes to a temporary cache every 10 seconds. Never lose your progress!
-- **🔍 Diff View (Version Comparison)** — Visually compare any two versions of a file with line-by-line additions and deletions highlighted (green for additions, red for deletions).
-- **⏪ Rollback Mechanism** — Easily restore any document to a previous state, safely rewinding your document history.
-- **🔁 In-Memory Undo/Redo** — Fully functional Undo/Redo stack for active editing sessions.
-- **🔎 Find & Replace** — Integrated, blazing-fast search bar to find and replace text across large files.
+- ** Smart Syntax Highlighting** — Dynamic, regex-based real-time syntax highlighting for Kotlin (`.kt`, `.kts`) and Markdown (`.md`) files.
+- ** Markdown Preview** — Dedicated read-only preview screen that beautifully renders Markdown elements (headings, bold, lists, code blocks, etc.) into styled text.
+- ** Incremental Version Control** — Saves storage space by storing only the *differences* (deltas) between file saves using `java-diff-utils`, rather than duplicating entire files for every version.
+- ** Auto-Save & Crash Recovery** — Background coroutines automatically back up your unsaved changes to a temporary cache every 10 seconds. Never lose your progress!
+- ** Diff View (Version Comparison)** — Visually compare any two versions of a file with line-by-line additions and deletions highlighted (green for additions, red for deletions).
+- ** Rollback Mechanism** — Easily restore any document to a previous state, safely rewinding your document history.
+- ** In-Memory Undo/Redo** — Fully functional Undo/Redo stack for active editing sessions.
+- ** Find & Replace** — Integrated, blazing-fast search bar to find and replace text across large files.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 DevNotepad is built with modern Android development practices and libraries:
 
@@ -37,7 +37,7 @@ DevNotepad is built with modern Android development practices and libraries:
 
 ---
 
-## 🏗️ Core Architecture & Mechanics
+##  Core Architecture & Mechanics
 
 ### 1. Storage & Delta Tracking Mechanism
 DevNotepad employs an efficient versioning system to track file history without bloating storage:
@@ -54,7 +54,7 @@ Built entirely in Jetpack Compose using `VisualTransformation`, the editor style
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Android Studio** (Giraffe or newer recommended)
@@ -75,7 +75,7 @@ Built entirely in Jetpack Compose using `VisualTransformation`, the editor style
 
 ---
 
-## 📂 Project Structure Overview
+##  Project Structure Overview
 
 ```text
 app/src/main/java/com/devnotepad/editor/
@@ -96,10 +96,10 @@ app/src/main/java/com/devnotepad/editor/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Editor | Version History | Diff View | Markdown Preview |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ca09b0cd-db91-4c24-a9bb-2751cf9c612c" width="200" alt="Editor Screen"> | <img src="https://github.com/user-attachments/assets/20afbcfc-6229-4851-a394-931676c0947b" width="200" alt="History Screen"> | <img src="https://github.com/user-attachments/assets/8bfe9bf9-98b5-4ccc-a080-5fa41cbc6ee0" width="200" alt="Diff Screen"> | <img src="https://github.com/user-attachments/assets/7322777a-c708-473e-9007-9e071ed55de4" width="200" alt="Preview Screen"> |
+| <img src="https://github.com/user-attachments/assets/ca09b0cd-db91-4c24-a9bb-2751cf9c612c" width="200" alt="Editor Screen"> | <img src="https://github.com/user-attachments/assets/20afbcfc-6229-4851-a394-931676c0947b" width="200" alt="History Screen"> | <img src="https://github.com/user-attachments/assets/40b1cf4c-3976-4ccd-a66f-cf34bb172b2a" width="200" alt="Diff Screen"> | <img src="https://github.com/user-attachments/assets/7322777a-c708-473e-9007-9e071ed55de4" width="200" alt="Preview Screen"> |
 
 ---
