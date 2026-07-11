@@ -32,7 +32,7 @@ com.devnotepad.editor.test.app-runtime-saveable-release-30 C:\Users\94752\.gradl
 com.devnotepad.editor.test.app-ui-test-junit4-release-31 C:\Users\94752\.gradle\caches\8.9\transforms\e0a91d16b088361de74e8c2037617ac4\transformed\ui-test-junit4-release\res
 com.devnotepad.editor.test.app-ui-graphics-release-32 C:\Users\94752\.gradle\caches\8.9\transforms\e93db948b9f7bdd3af5b73eeec5a7558\transformed\ui-graphics-release\res
 com.devnotepad.editor.test.app-emoji2-1.3.0-33 C:\Users\94752\.gradle\caches\8.9\transforms\f6335c06071f914e4a5ef22dc5a03525\transformed\emoji2-1.3.0\res
-com.devnotepad.editor.test.app-androidTest-34 C:\Users\94752\Desktop\adroid IDE\app\build\generated\res\resValues\androidTest\debug
-com.devnotepad.editor.test.app-mergeDebugAndroidTestResources-35 C:\Users\94752\Desktop\adroid IDE\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.devnotepad.editor.test.app-mergeDebugAndroidTestResources-36 C:\Users\94752\Desktop\adroid IDE\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.devnotepad.editor.test.app-debugAndroidTest-37 C:\Users\94752\Desktop\adroid IDE\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.devnotepad.editor.test.app-androidTest-34 C:\Users\94752\Desktop\DevNotepad_MiniProject\app\build\generated\res\resValues\androidTest\debug
+com.devnotepad.editor.test.app-mergeDebugAndroidTestResources-35 C:\Users\94752\Desktop\DevNotepad_MiniProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.devnotepad.editor.test.app-mergeDebugAndroidTestResources-36 C:\Users\94752\Desktop\DevNotepad_MiniProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.devnotepad.editor.test.app-debugAndroidTest-37 C:\Users\94752\Desktop\DevNotepad_MiniProject\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
