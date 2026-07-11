@@ -4,7 +4,7 @@
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose)
 
-**DevNotepad** is a modern, lightweight, and highly performant Android text editor built specifically for developers.it features a unique **Incremental Delta-Based Version Control System**, allowing users to seamlessly track changes, compare versions, and safely edit code on the go without consuming excessive local storage.
+**DevNotepad** is a modern, lightweight mobile text editor for developers with an incremental delta-based version control system. Built with Kotlin, Jetpack Compose, and Room.
 
 ---
 
