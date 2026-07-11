@@ -19,7 +19,7 @@ import com.devnotepad.editor.data.model.SyntaxMode
  *  - Menu (hamburger) button to open the sidebar drawer
  *  - File name display with modification indicator (●)
  *  - Read-only lock icon
- *  - Action buttons: Undo, Redo, Search, Save
+ *  - Action buttons: Undo, Redo, Search, Markdown Preview (conditional), Save
  *  - Overflow menu: New, Save As, Word Wrap, Syntax Mode, Version History
  *
  * @param fileName Current file name to display.
@@ -43,6 +43,7 @@ import com.devnotepad.editor.data.model.SyntaxMode
  * @param onToggleWordWrap Toggle word wrap.
  * @param onSetSyntaxMode Change syntax mode.
  * @param onVersionHistory Navigate to version history.
+ * @param onMarkdownPreview Navigate to Markdown preview (only shown for .md/.markdown files).
  */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -68,6 +69,7 @@ fun EditorToolbar(
     onToggleWordWrap: () -> Unit,
     onSetSyntaxMode: (SyntaxMode) -> Unit,
     onVersionHistory: () -> Unit,
+    onMarkdownPreview: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     var showOverflowMenu by remember { mutableStateOf(false) }
@@ -153,6 +155,16 @@ fun EditorToolbar(
                     Icons.Filled.Search,
                     contentDescription = "Search"
                 )
+            }
+
+            // Markdown Preview (only for .md / .markdown files)
+            if (syntaxMode == SyntaxMode.MARKDOWN) {
+                IconButton(onClick = onMarkdownPreview) {
+                    Icon(
+                        Icons.Filled.RemoveRedEye,
+                        contentDescription = "Markdown Preview"
+                    )
+                }
             }
 
             // Save

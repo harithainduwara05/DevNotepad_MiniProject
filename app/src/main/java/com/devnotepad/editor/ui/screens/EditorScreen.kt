@@ -154,7 +154,8 @@ fun EditorScreen(
                             editorState.documentId?.let { docId ->
                                 onNavigateToVersionHistory(docId)
                             }
-                        }
+                        },
+                        onMarkdownPreview = onNavigateToMarkdownPreview
                     )
 
                     // ── Search/Replace Bar (animated) ──

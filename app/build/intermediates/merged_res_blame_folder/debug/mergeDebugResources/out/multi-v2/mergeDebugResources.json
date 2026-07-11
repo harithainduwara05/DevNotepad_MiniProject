@@ -1919,6 +1919,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\94752\\Desktop\\DevNotepad_MiniProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "47",
+                        "endOffsets": "60"
+                    },
+                    "to": {
+                        "startLines": "102",
+                        "startColumns": "4",
+                        "startOffsets": "6212",
+                        "endColumns": "47",
+                        "endOffsets": "6255"
+                    }
+                },
+                {
                     "source": "C:\\Users\\94752\\.gradle\\caches\\8.9\\transforms\\77640e7de0eda7791e00ff5f59f65f76\\transformed\\customview-poolingcontainer-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -1989,6 +2006,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\94752\\Desktop\\DevNotepad_MiniProject\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "388"
+                    },
+                    "to": {
+                        "startLines": "226",
+                        "startColumns": "4",
+                        "startOffsets": "14461",
+                        "endLines": "230",
+                        "endColumns": "12",
+                        "endOffsets": "14788"
+                    }
+                },
+                {
                     "source": "C:\\Users\\94752\\.gradle\\caches\\8.9\\transforms\\1cb63e846cfd5a9dc7887138e07f2f78\\transformed\\navigation-common-2.8.5\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,15,21,27,30",
@@ -2025,23 +2061,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\94752\\Desktop\\adroid IDE\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "102",
-                        "startColumns": "4",
-                        "startOffsets": "6212",
-                        "endColumns": "47",
-                        "endOffsets": "6255"
-                    }
-                },
-                {
                     "source": "C:\\Users\\94752\\.gradle\\caches\\8.9\\transforms\\5b5094263e06b4b56c6fcf00411e66cc\\transformed\\lifecycle-viewmodel-release\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -2075,25 +2094,6 @@
                         "endLines": "99,117,118,119,120,121,122,123,124,125,128,129,130,131,132,133,134,135,136,137,138,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,204,207",
                         "endColumns": "72,87,85,80,83,68,64,82,105,85,13,53,68,60,68,88,94,73,96,92,97,13,90,87,95,97,63,67,86,93,66,71,71,100,108,75,68,47,65,63,73,56,56,71,49,53,70,70,69,68,57,75,70,73,85,49,69,64,12,12",
                         "endOffsets": "6054,7310,7396,7477,7561,7630,7695,7778,7884,7970,8090,8144,8213,8274,8343,8432,8527,8601,8698,8791,8889,9038,9129,9217,9313,9411,9475,9543,9630,9724,9791,9863,9935,10036,10145,10221,10290,10338,10404,10468,10542,10599,10656,10728,10778,10832,10903,10974,11044,11113,11171,11247,11318,11392,11478,11528,11598,11663,13239,13392"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\94752\\Desktop\\adroid IDE\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "382"
-                    },
-                    "to": {
-                        "startLines": "226",
-                        "startColumns": "4",
-                        "startOffsets": "14461",
-                        "endLines": "230",
-                        "endColumns": "12",
-                        "endOffsets": "14788"
                     }
                 },
                 {
