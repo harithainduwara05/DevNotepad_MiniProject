@@ -98,10 +98,8 @@ app/src/main/java/com/devnotepad/editor/
 
 ## 📸 Screenshots
 
-*(Add your application screenshots here to showcase the beautiful UI!)*
-
 | Editor | Version History | Diff View | Markdown Preview |
 |:---:|:---:|:---:|:---:|
-| <img src="" width="200" alt="Editor Screen"> | <img src="" width="200" alt="History Screen"> | <img src="" width="200" alt="Diff Screen"> | <img src="" width="200" alt="Preview Screen"> |
+| <img src="https://github.com/user-attachments/assets/ca09b0cd-db91-4c24-a9bb-2751cf9c612c" width="200" alt="Editor Screen"> | <img src="https://github.com/user-attachments/assets/20afbcfc-6229-4851-a394-931676c0947b" width="200" alt="History Screen"> | <img src="https://github.com/user-attachments/assets/8bfe9bf9-98b5-4ccc-a080-5fa41cbc6ee0" width="200" alt="Diff Screen"> | <img src="https://github.com/user-attachments/assets/7322777a-c708-473e-9007-9e071ed55de4" width="200" alt="Preview Screen"> |
 
 ---
