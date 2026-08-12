@@ -100,6 +100,6 @@ app/src/main/java/com/devnotepad/editor/
 
 | Editor | Version History | Diff View | Markdown Preview |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ca09b0cd-db91-4c24-a9bb-2751cf9c612c" width="200" alt="Editor Screen"> | <img src="https://github.com/user-attachments/assets/20afbcfc-6229-4851-a394-931676c0947b" width="200" alt="History Screen"> | <img src="https://github.com/user-attachments/assets/40b1cf4c-3976-4ccd-a66f-cf34bb172b2a" width="200" alt="Diff Screen"> | <img src="https://github.com/user-attachments/assets/7322777a-c708-473e-9007-9e071ed55de4" width="200" alt="Preview Screen"> |
+| <img src="https://github.com/user-attachments/assets/ca09b0cd-db91-4c24-a9bb-2751cf9c612c" width="200" alt="Editor Screen"> | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c4df2221-9bc6-458b-bf9a-d4d57e7f5839" width="200" alt="History Screen"> | <img src="https://github.com/user-attachments/assets/40b1cf4c-3976-4ccd-a66f-cf34bb172b2a" width="200" alt="Diff Screen"> | <img src="https://github.com/user-attachments/assets/7322777a-c708-473e-9007-9e071ed55de4" width="200" alt="Preview Screen"> |
 
 ---
